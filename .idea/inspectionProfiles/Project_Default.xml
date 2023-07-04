@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="base.base_class.z" />
+          <option value="tests.Test_1.x" />
+          <option value="tests.Test_1.*" />
+          <option value="base.base_class.base_" />
+          <option value="base.base_class.elf" />
+          <option value="pages.main_page.z" />
+          <option value="pages.main_page.v" />
+          <option value="pages.main_page.ba" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
